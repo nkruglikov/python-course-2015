@@ -1,0 +1,3 @@
+[submodule "01_pygame"]
+	path = 01_pygame
+	url = https://github.com/FrBrGeorge/PyGame.git
